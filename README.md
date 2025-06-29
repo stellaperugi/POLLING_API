@@ -1,6 +1,6 @@
 # PollingAPI
 PollingAPI is an API for creating and participating in polls.
-The API is built using Django and DRF, and Railway was used for deployment. You can try it here: https://pollingapi.up.railway.app/
+The API is built using Django and DRF, and Railway was used for deployment. You can try it here: https://pollingapi-production-372a.up.railway.app
 ## What you can do with PollingAPI
 * Create polls: You can create new polls with a title and options.
 * View polls: You can see the details of the polls you have created.
